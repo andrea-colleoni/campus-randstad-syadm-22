@@ -1,7 +1,7 @@
 # lavorare con i files
 
 # preparazione:
-# creare un file testo1.txt e test2.txt, con del contenuto di diverse righe ciascuno (e.g lorem ipsum)
+# creare un file testo1.txt e testo2.txt, con del contenuto di diverse righe ciascuno (e.g lorem ipsum)
 
 # 1. creare un file 'tutto.txt' con l'unione dei due file
 # 2. creare un file 'pari1.txt' con le righe pari dei due file: prima tutte quelle del file 1, poi tutte quelle del file2 (2, 4, ,6 , 8, 2, ,4 ,6, 8)
