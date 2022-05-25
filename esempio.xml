@@ -1,0 +1,15 @@
+<partecipanti>
+    <persona ruolo="docente">
+        <nome>Andrea</nome>
+        <cognome>Colleoni</cognome>
+        <citta>Bergamo</citta>
+    </persona>
+    <persona ruolo="studente">
+        <nome>Luca</nome>
+        <cognome>Tommasi</cognome>
+        <citta>Como</citta>
+    </persona>
+    <persona ruolo="studente">
+        ...
+    </persona>
+</partecipanti>

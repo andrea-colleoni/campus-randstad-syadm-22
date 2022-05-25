@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Andrea",
+        "cognome": "Colleoni",
+        "citta": "Bergamo",
+        "ruolo": "docente"
+    }, 
+    {
+        "gruppo": "Queen",
+        "titolo": "Bohemian Rapsody"
+    }
+]
