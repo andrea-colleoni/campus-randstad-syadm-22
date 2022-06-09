@@ -1,0 +1,5 @@
+2. Per rendere il documento di qualità professionale, Word fornisce schemi per intestazione, piè di pagina, pagina di copertina e casella di testo che si complementano l'un l'altro.Ad esempio, è possibile aggiungere un frontespizio, un'intestazione e una barra laterale corrispondenti. Fare clic su Inserisci, quindi scegliere gli elementi dalle diverse raccolte.
+4. Consente di risparmiare tempo in Word con nuovi pulsanti che vengono visualizzati dove sono necessari. Per cambiare il modo in cui un'immagine viene inserita nel documento, fare clic sull'immagine. Accanto a essa verrà visualizzato un pulsante per le opzioni di layout. Quando si lavora su una tabella, fare clic sul punto in cui si desidera aggiungere una riga o una colonna, quindi fare clic sul segno più.
+2. [riga vuota]
+4. Altra riga vuota
+6. ulteriore riga pari vuota
