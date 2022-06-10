@@ -36,3 +36,15 @@ def tabellina():
 
     elif request.method == 'GET':
         return render_template('tabellina.html')
+
+@app.route('/esercizio', methods=['GET', 'POST'])
+def esercizio():
+    if request.method == 'POST':
+        numero = request.form.get('numero')
+        tipo = request.form.get('tipo')
+        simbolo = request.form.get('simbolo')
+
+        return render_template('esercizio.html', numero=int(numero), tipo=tipo, simbolo=simbolo)
+
+    elif request.method == 'GET':
+        return render_template('esercizio.html')        
