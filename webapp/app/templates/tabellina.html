@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Tabellina del 7 in Python</title>
+    </head>
+    <body>
+        <form method="post">
+            <label>Inserire un numero:</label>
+            <input type="number" name="numero"> <br>
+
+            <label>Inserire il numero di ripetizioni:</label>
+            <input type="number" name="ripetizioni">
+            <br>
+            <button type="submit">Genera la tabellina</button>
+        </form>
+        {% if numeri %}
+        <h2>Ecco la tabellina del {{ numero }} fatta in Python:</h2>
+        <ul>
+            {% for n in numeri %}
+            <li><strong>{{ n }}</strong></li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        <script>
+            console.log('ciao da JS!!!');
+        </script>
+    </body>
+</html>
